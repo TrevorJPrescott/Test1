@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Week1Daily3 - Translations</string>
+
+
+    <string name="statement1">Hello Mercury</string>
+    <string name="statement2">Hello Venus</string>
+    <string name="statement3">Hello Earth</string>
+    <string name="statement4">Hello Mars</string>
+    <string name="statement5">Goodbye Pluto</string>
+</resources>

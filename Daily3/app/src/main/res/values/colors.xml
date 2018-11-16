@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="Ma">#ff3300</color>
+    <color name="Ve">#ff66cc</color>
+    <color name="Ea">#009933</color>
+    <color name="Mu">#2e1bd8</color>
+    <color name="Pl">#D81B60</color>
+</resources>

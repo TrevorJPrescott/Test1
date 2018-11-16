@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrainingWeek1Day4</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="display_to_phone_display">Click to display phone number</string>
+</resources>

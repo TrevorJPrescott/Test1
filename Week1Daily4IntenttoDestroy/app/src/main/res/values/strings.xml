@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Week1Daily4 -Intent toDestroy()</string>
+    <string name="Display">Display Information</string>
+    <string name="Input">Input Screen</string>
+    <string name="InsertName">Enter Name</string>
+</resources>
